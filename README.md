@@ -43,7 +43,7 @@ I’m open to collaboration! If you find any issues or want to contribute, feel 
 
 ## Connect With Me
 
-📧 Email: [your.email@example.com](mailto\aru.rocks2004@gmail.com)\
+📧 Email: [your.email@example.com](mailto\:aru.rocks2004@gmail.com)\
 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/arvind-hariharan-2b2260313)\
 🐦 Twitter: [Your Twitter Handle](https://twitter.com/arvind_2004)
 
