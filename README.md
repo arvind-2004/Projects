@@ -1,6 +1,6 @@
 # Projects Repository
 
-Welcome to my **Projects** repository! 🚀
+Welcome to my **Projects** repo! 🚀
 
 ## About This Repository
 
@@ -14,25 +14,24 @@ Here are some of the technologies I use across my projects:
 - **Backend**: Node.js, Express.js, Django, Flask
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Version Control**: Git, GitHub
-- **Deployment & DevOps**: Docker, AWS, Vercel, Netlify
+- **Deployment & DevOps**: Docker, AWS, Vercel
 - **Other**: RESTful APIs, GraphQL, WebSockets, Authentication & Security
 
 ## Projects Included
 
 Here are some of the industry-grade projects you can find in this repository:
 
-1. **E-Commerce Web App** – A full-fledged e-commerce platform with user authentication, cart functionality, and payment gateway integration.
-2. **Task Management System** – A project management tool with real-time collaboration and Kanban-style task tracking.
-3. **Social Media Platform** – A scalable social networking site featuring user posts, likes, comments, and friend requests.
-4. **Blogging Platform** – A Markdown-powered blog with user authentication, comments, and SEO optimization.
-5. **Job Portal** – A job listing platform that connects job seekers with recruiters, featuring advanced search filters and application tracking.
+1. **Full Stack Airbnb Clone** – A near replication of the famous website Airbnb is achieved in this project.
+2. **Portfolio Design** – A modern responsive portfolio design is achieved in this project.
+3. **Weather App** – A Front-End based website which allow users to get information about weather in real time
+4. **Website Login/Sign-up Page** – A website Sign-in/Sign-up Page through which users can access the facilities provided by the website.
 
 ## Getting Started
 
 To clone and explore this repository, use the following command:
 
 ```bash
-$ git clone https://github.com/yourusername/projects.git
+$ git clone https://github.com/arvind-2004/projects.git
 $ cd projects
 ```
 
@@ -44,9 +43,9 @@ I’m open to collaboration! If you find any issues or want to contribute, feel 
 
 ## Connect With Me
 
-📧 Email: [your.email@example.com](mailto\:your.email@example.com)\
-💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)\
-🐦 Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
+📧 Email: [your.email@example.com](mailto\aru.rocks2004@gmail.com)\
+💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/arvind-hariharan-2b2260313)\
+🐦 Twitter: [Your Twitter Handle](https://twitter.com/arvind_2004)
 
 ---
 
